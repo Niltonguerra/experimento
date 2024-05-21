@@ -1,0 +1,26 @@
+o que o projeto se propora a fazer:
+
+desenvolver um software para recomendar alimentos diacordo com as preferencias do usuario
+
+requisitos funcionais:
+o usuario vai poder logar
+o usuario vai poder fazer o crud na sua conta
+o usuario vai poder ter recomendações personalizadas de alimentos para ele gostar, para isso ele irá passar para o sistema o tipo de alimentos que ele gosta.
+
+
+ideias de como fazer(brain storm):
+os alimentos serão tagiados
+essas tags serão processadas por um algoritmos de recomendação
+o crud será feito com nest
+o sistema mobile com react native
+
+
+quantidade de telas:
+tela de login
+tela de home
+tela de produto(visualização do alimento recomendado)
+tela de criar conta
+tela de editar conta
+tela de visualizar dados que também permitirá excluir a própria conta
+
+
